@@ -1,5 +1,5 @@
 # NLP_masters_project
-Code base used for NLP project 2020. Our final paper can be found following this [link](./SNLP_Debiasing_BERT.pdf).
+Code base used for NLP project 2020.
 
 By Daniel de Vassimon Manela, Boris van Breugel, Tom Fisher, David Errington
 
