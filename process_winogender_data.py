@@ -2,7 +2,7 @@ import csv
 
 TEMPLATES_PATH = 'winogender-schemas/data/templates.tsv'
 OCC_STATS_PATH = 'winogender-schemas/data/occupations-stats.tsv'
-OUTPUT_PATH = 'winogender-schemas/data/processed_wino_data.txt'
+OUTPUT_PATH = 'processed_wino_data.txt'
 PRONOUNS = {
     '$NOM_PRONOUN': {'M': '[he]', 'F': '[she]', 'N': '[they]'},
     '$ACC_PRONOUN': {'M': '[him]', 'F': '[her]', 'N': '[them]'},
