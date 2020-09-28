@@ -14,4 +14,4 @@ raw data into a suitable formatting for modelling. Notebook is also dependent on
 ## Extra Dependencies
 We use the [Winogender Schemas](https://github.com/rudinger/winogender-schemas) (in particular, use of the [`/data/templates.tsv`](./winogender-schemas/data/templates.tsv') file) for obtaining more general benchmarks of algorithm bias.
 
-The processed examples are stored in [`winogender-schemas/data/processed_wino_data.txt`](winogender-schemas/data/processed_wino_data.txt).
+The processed examples are stored in [`processed_wino_data.txt`](processed_wino_data.txt).
